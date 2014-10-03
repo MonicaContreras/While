@@ -1,0 +1,6 @@
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\bin\Debug\AppNnumeros.exe.config
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\bin\Debug\AppNnumeros.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\bin\Debug\AppNnumeros.pdb
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\obj\Debug\AppNnumeros.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\obj\Debug\AppNnumeros.exe
+c:\users\lab104bpc22\documents\visual studio 2012\Projects\AppNnumeros\AppNnumeros\obj\Debug\AppNnumeros.pdb
